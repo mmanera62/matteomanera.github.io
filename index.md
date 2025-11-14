@@ -25,7 +25,7 @@ His research interests include: time series analysis; financial econometrics; en
 He has published his work in several international journals, such as: Applied Financial Economics, Economic Modelling, Empirica, Empirical Economics, Energy Economics, Energy Policy, Environment and Development Economics, Environmental Modelling and Software, Environmental and Resource Economics, European Economic Review, Financial Research Letters, Food Policy, Journal of Economic Surveys, Journal of Futures Markets, Journal of Productivity Analysis, Macroeconomic Dynamics, Quantitative Economics, Quantitative Economics, Resource and Energy Economics, Resources Policy, The Energy Journal.
 
 ## Publications
-*1. Articles in refereed journals*
+### *1. Articles in refereed journals*
 
 Ahmadi M., Casoli C., Manera M., Valenti D. (2025), “Climate shocks, economic activity and cross-country spillovers: evidence from a new global model”, *Economic Modelling* **148**, 107082, 1-17 (ISSN: 0264-9993, [DOI](https://doi.org/10.1016/j.econmod.2025.107082)).
 
@@ -147,7 +147,7 @@ Manera M. (1994), “Factor demands and substitution in the Italian manufacturin
 
 Manera M. (1991), “Multivariate non-nested tests for comparing the empirical performance of alternative factor demand systems”, *Giornale degli Economisti e Annali di Economia* **50**, 441-474 (ISSN: 0017-0097; [Link](http://www.jstor.org/stable/23247058)).
 
-*2. Refereed books, contributions to  refereed books and technical reports*
+### *2. Refereed books, contributions to  refereed books and technical reports*
 
 Manera M. (ed.) (2017), *Energy Governance, Institutions and Policy in China and in the EU. A Comparative Assessment*, FEEM Press, Milan, Italy (ISBN: 9788894170146).
 
@@ -180,7 +180,7 @@ Manera M., McAleer M. (1999), “Testing non-nested systems of factor demand equ
 Manera, M. (1998), *Empirical Factor Demands: Specification, Estimation and Inference*, Florence: European University Institute, 1998, EUI, ECO, PhD Thesis
 ([Link](https://hdl.handle.net/1814/4998); [DOI](https://doi.org/10.2870/7057270)).
 
-*3. Working papers*
+### *3. Working papers*
 
 Casoli C., Manera M., Pedini L., Valenti D. (2025), ““It’s not the heat, it’s the humidity!” New climate indices for Europe with a multilevel factor model”, *FEEM Working Paper n.23.2025* (ISSN: 2037-1209).
 
