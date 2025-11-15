@@ -298,7 +298,7 @@ Forte G., Manera M. (2002), “Forecasting volatility in European stock markets 
 
 Galeotti M., Lanza A., Manera M. (2002), “Rockets and feathers revisited: an international comparison on European gasoline markets”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 6.2002* (ISSN: 2037-1209).
 
-## Teaching (academic year 2025-2026)
+## Teaching
 
 ### *1. Undergraduate*
 
