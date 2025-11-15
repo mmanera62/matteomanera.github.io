@@ -5,7 +5,7 @@ University of Milano-Bicocca<br>
 Piazza dell'Ateneo Nuovo 1, 20126 Milano, Italy<br>
 Email: [matteo.manera@unimib.it](mailto:matteo.manera@unimib.it)<br><br>
 Program Director<br>
-Research program "Econometrics of the Energy Transition"<br>
+Research program Econometrics of the Energy Transition<br>
 Fondazione Eni Enrico Mattei<br>
 Corso Magenta 63, 20123 Milano, Italy<br>
 Email: [matteo.manera@feem.it](mailto:matteo.manera@feem.it)<br><br>
