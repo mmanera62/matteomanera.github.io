@@ -298,6 +298,30 @@ Forte G., Manera M. (2002), “Forecasting volatility in European stock markets 
 
 Galeotti M., Lanza A., Manera M. (2002), “Rockets and feathers revisited: an international comparison on European gasoline markets”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 6.2002* (ISSN: 2037-1209).
 
+## Teaching (academic year 2025-2026)
+
+### *1. Undergraduate*
+
+[*Econometrics*](https://elearning.unimib.it/course/info.php?id=60599), Bsc in Statistics and Economics, University of Milano-Bicocca.
+
+### *2. Graduate*
+
+[*Econometrics*](https://ecorsi.liuc.it/local/search/index.php?tit=econometrics&cod&cat&doc&modulelist&lang=en), MSc in Economics, Management and Governance, LIUC.
+
+[*Applied Econometrics*](https://www.eni.com/en-IT/careers/training-courses/master/medea.html), MSc in Economics of Energy and Environment, ECU.
+
+[*Quantitative Methods for Management*](https://www.eni.com/en-IT/careers/training-courses/master/medea.html), MSc in Economics of Energy and Environment, ECU.
+
+[*Applied Economics*](https://elearning.unimib.it/course/info.php?id=61194), MSc in Statistics and Economics, University of Milano-Bicocca.
+
+[*Microeconometrics*](https://elearning.unimib.it/enrol/index.php?id=62098), MSc in Statistics and Economics, University of Milano-Bicocca.
+
+[*Data Analysis and Econometrics*](https://www.kapsarc.org/school-of-public-policy/), Acceleration Program Economics of Energy and Environment, KAPSARC.
+
+### *3. Postgraduate*
+
+[Econometrics](https://www.dems.unimib.it/en/research/phd-economics-statistics-and-data-science), PhD in Economics, Statistics and Data Science, University of Milano-Bicocca.
+
 
 ## Useful links
 [DEMS](https://dems.unimib.it/en)
